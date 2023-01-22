@@ -12,8 +12,4 @@ function greet() {
             console.log(userAge)
             alert((new Date().getFullYear() - userAge).toString()) 
         }
-<<<<<<< HEAD
-    }
-=======
-    }
->>>>>>> 0c7bf730581df03a961e2d9b7d42c9ee80eb5211
+}
